@@ -1,0 +1,48 @@
+.home{
+    background-image: url('../img/emilia-home.jpg') ;
+    background-repeat: no-repeat;
+    background-position: right 0;
+    background-size: 70%;
+    text-transform: uppercase;
+}
+/* #header{
+    background-color: aqua;
+} */
+
+.home header{
+    margin-left: 30px;
+}
+.home header nav ul li {
+    margin: 10px 0 ;
+    /* text-transform: uppercase; */
+    
+}
+.home header nav ul li a{
+    color: #b6b4b4;
+
+}
+/* .home header nav ul a{
+    color: #a4a4a4;
+
+} */
+.home main{
+    margin-top: 190px;
+}
+
+.home main h2{
+    margin-bottom: 120px;
+    margin-left: 30 px;
+   font-family: var(--fuenteSubtitulos);
+   font-size:25px ;
+   font-weight: 30;
+   letter-spacing: 8px;
+   
+
+}
+
+.home main h1{
+   
+    font-size: 90px;
+    background-color: #ffffff5c;
+    font-family:var(--fuenteTitulos) ;
+}
